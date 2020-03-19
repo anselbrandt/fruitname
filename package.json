@@ -1,0 +1,24 @@
+{
+  "name": "fruitname",
+  "version": "1.0.1",
+  "description": "Name generator based on Docker's container name generator. Returns a name and the name of a fruit or vegetable.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anselbrandt/fruitname.git"
+  },
+  "keywords": [
+    "name",
+    "generator",
+    "fruit"
+  ],
+  "author": "ansel brandt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anselbrandt/fruitname/issues"
+  },
+  "homepage": "https://github.com/anselbrandt/fruitname#readme"
+}
