@@ -770,7 +770,7 @@ const fruit = [
   "Huckleberry",
   "Jabuticaba",
   "Jackfruit",
-  "Jalapeño",
+  "Jalapeno",
   "Jambul",
   "Jicama",
   "Jostaberry",
