@@ -1,6 +1,6 @@
 {
   "name": "fruitname",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Name generator based on Docker's container name generator. Returns a name and the name of a fruit or vegetable.",
   "main": "index.js",
   "scripts": {
